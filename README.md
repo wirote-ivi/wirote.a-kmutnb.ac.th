@@ -6,7 +6,7 @@ Educational SystemVerilog projects for Cyclone IV FPGA.
 - Software   : Quartus Prime
 - Language   : SystemVerilog
 
-## PProject Purpose
+## Project Purpose
 
 This project is used to verify the FPGA board functionality and the
 computer toolchain environment including Quartus compilation and
